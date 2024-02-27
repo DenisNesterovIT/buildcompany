@@ -5,6 +5,7 @@
 Технологии:
 * HTML
 * CSS
+* SCSS
 * JS
 * PHP
 * PHPMailer
